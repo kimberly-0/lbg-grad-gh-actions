@@ -12,6 +12,7 @@
 		<maven.compiler.release>11</maven.compiler.release>
 		<maven.compiler.target>11</maven.compiler.target>
 		<maven.compiler.source>11</maven.compiler.source>
+		<sonar.projectKey>lbg-grad-gh-actions</sonar.projectKey>
 	</properties>
 
 	<dependencies>
